@@ -1,5 +1,7 @@
 # Beyond Lennon Walls: Ways to support the Hong Kong protests from afar
 
+| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
 Last updated 21 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
